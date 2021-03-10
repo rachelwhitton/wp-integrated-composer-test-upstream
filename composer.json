@@ -14,7 +14,8 @@
     }
   ],
   "require": {
-    "pantheon-upstreams/upstream-config": "*"
+    "pantheon-upstreams/upstream-config": "*",
+    "wpackagist-plugin/pantheon-hud": "^0.3.1"
   },
   "config": {
     "vendor-dir": "vendor",
